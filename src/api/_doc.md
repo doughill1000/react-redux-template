@@ -1,1 +1,1 @@
-Contains logic and structures that mirror our services API
+Contains logic and structures that mirror external APIs
